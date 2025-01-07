@@ -1,5 +1,11 @@
 # viem
 
+## 2.22.4
+
+### Patch Changes
+
+- [#3194](https://github.com/wevm/viem/pull/3194) [`497fa72642f39725bc1364e2164ccc8b16e8131d`](https://github.com/wevm/viem/commit/497fa72642f39725bc1364e2164ccc8b16e8131d) Thanks [@davidenwang](https://github.com/davidenwang)! - Fixed transaction reprice logic in `waitForTransactionReceipt` to account for `transaction.input` as well.
+
 ## 2.22.3
 
 ### Patch Changes
